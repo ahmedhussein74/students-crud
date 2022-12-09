@@ -1,0 +1,27 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header{
+  font-size: 25px;
+}
+
+.addStudent{
+  width: 400px;
+  padding: 20px;
+  background-color: #eee;
+}
+
+input{
+  width: 350px;
+  height: 35px;
+  outline: none;
+  border: none;
+}
+
+td button, td a{
+  width: 100px;
+  height: 30px;
+}
